@@ -1,3 +1,6 @@
+# Documentação link: https://www.geeksforgeeks.org/singly-linked-list-definition-meaning-dsa/
+# https://www.geeksforgeeks.org/singly-linked-list-tutorial/
+
 class No:
   def __init__(self, valor):
     self.valor = valor

@@ -31,4 +31,7 @@ Sendo eles:
   - Algoritmo de Dijkstra
   - 
 
+Link uteis:
+- https://wiki.python.org/moin/TimeComplexity
+
 Teacher: Jones Granatyr
